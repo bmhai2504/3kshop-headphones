@@ -1,0 +1,30 @@
+body {
+  background-color: #fbfbfb;
+}
+
+.show-brand {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.img-nav {
+  height: 90px;
+  width: 90px;
+  margin: 10px 10px 10px 10px;
+}
+
+.recommemd {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 1%;
+}
+
+.product-page{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  /* margin-left: 10%;
+  margin-right: 100px;
+  margin-bottom: 5%; */
+}
